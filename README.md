@@ -8,3 +8,5 @@ Our analysis is based on the dataset obtained from kaggle, which hosts dataset w
 Hypothesis: “Are educational and gaming apps widely downloaded and top ranked categories on Google play store(Android market)?”
 
 Please find the analysis and conclusions in Jupyter Notebook.
+
+Data Analysts: Duy Nguyen,Reshma Hegde, Sneha Kundra, Srinivasa
