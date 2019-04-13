@@ -9,4 +9,4 @@ Hypothesis: “Are educational and gaming apps widely downloaded and top ranked 
 
 Please find the analysis and conclusions in Jupyter Notebook.
 
-Data Analysts: Duy Nguyen,Reshma Hegde, Sneha Kundra, Srinivasa
+Data Analysts: Duy Nguyen, Sneha Kundra, Reshma Hegde, Srinivasa
